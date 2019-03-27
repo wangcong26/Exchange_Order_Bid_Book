@@ -16,7 +16,7 @@ In this class, I store a Price together with a LinkedList<RestingOrder>
 
 
 #3. Explanation of the Junit Test.
-Although professor didn't ask us to write new tests, I divided his huge test into 7 parts. In the Junit package, you would see 7 parts and I printed out all the relevant output to visualize what's behind he scene. But I included his original big unit test file without touching anything, just for the purpose of backing it up. All these 8 file are passed.
+In the Junit package, you would see 7 parts and I printed out all the relevant output to visualize what's behind he scene. But I included his original big unit test file without touching anything, just for the purpose of backing it up. All these 8 file are passed.
 
 	
 
