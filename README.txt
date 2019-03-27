@@ -1,5 +1,4 @@
-Homework2
-Write three Classes to pass professor's huge Junit test.
+##Wrote three Classes to implement how buy and sell orders are handled in an exchange.
 
 #1. How to run the code:
 After importing my homework, the three Classes are under Package "exchangeStructures". The names are : Book, Exchange, and PriceLevel
